@@ -1,2 +1,2 @@
-#  DataCamp R-Projects
-# R Projects
+#  DataCamp Projects
+## Data Analysis/Machine Learning 
