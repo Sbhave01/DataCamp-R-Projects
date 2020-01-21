@@ -1,4 +1,5 @@
 #  DataCamp Projects
-``` Data Analysis
-    Machine Learning
-    ```
+``` 
+Data Analysis
+Machine Learning
+```
