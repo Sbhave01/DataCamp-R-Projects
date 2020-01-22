@@ -9,10 +9,10 @@
 -  [x] Model Data  
 -  [x] Interpretations and Inferences
 
-> Technology
-<div class="text-blue mb-2">
-  R
-</div>
+| Technology |
+|------------|
+> R
+ 
 
 
 ## Projects done
@@ -26,3 +26,4 @@
   
   
 ### My [DataCamp](https://www.datacamp.com/profile/shivangibhave01) profile.
+
