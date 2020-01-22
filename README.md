@@ -19,8 +19,8 @@
 
   | Project |   Task      |
   | --- | --------------------|
-  | `Planning Public Policy in Argentina ` | `Analyze economic and social development indicators for 22 provinces of Argentina to help plan an education program` |
   | `Visualizing Inequalities in Life Expectancy ` | `Compare life expectancy across countries and genders      `|
+  | `Planning Public Policy in Argentina ` | `Analyze economic and social development indicators for 22 provinces of Argentina to help plan an education program` |
   | `Degrees That Pay You Back               ` |` Exploring the short- and long-term financial implications of this major decision`|
   
   
