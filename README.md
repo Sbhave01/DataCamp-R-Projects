@@ -1,4 +1,4 @@
-#  DataCamp R-Projects
+#  DataCamp Projects
 
 >Projects were tasked with 
  
@@ -19,3 +19,4 @@
   | `Degrees That Pay You Back               ` |
   
   
+### My [DataCamp](https://www.datacamp.com/profile/shivangibhave01) profile.
