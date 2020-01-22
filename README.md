@@ -4,9 +4,10 @@
  
 -  [x] Importing-Cleanining Data
 -  [x] Data Manipulation
--  [x] Data Analysis
+-  [x] Explore Data 
 -  [x] Data Visualization
--  [x] Model creation using machine learning 
+-  [x] Model Data  
+-  [x] Interpretations and Inferences
 
   | Projects List | 
   | --- | 
