@@ -1,6 +1,6 @@
 #  DataCamp Projects
 
->Projects were tasked with 
+### Projects were tasked with 
  
 -  [x] Importing-Cleanining Data
 -  [x] Data Manipulation
@@ -8,6 +8,12 @@
 -  [x] Data Visualization
 -  [x] Model Data  
 -  [x] Interpretations and Inferences
+
+> Technology
+<div class="text-blue mb-2">
+  R
+</div>
+
 
 ## Projects done
 
